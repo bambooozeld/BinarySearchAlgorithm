@@ -19,3 +19,4 @@ def TheActuallSearch(L, R, n, T):
     return unsuccessful
 
 # Alternatively, the algorithm may take the ceiling of L + R / 2. This may change the result if the target value(T) is stored more than once in the array
+# unsupported operand type(s) for -: 'list' and 'int'
