@@ -17,6 +17,6 @@ def TheActuallSearch(L, R):
         R = m - 1
       else:
         return m
-    return 
+    return unsuccessful
 
 # Alternatively, the algorithm may take the ceiling of L + R / 2. This may change the result if the target value(T) is stored more than once in the array
